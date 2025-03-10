@@ -4,7 +4,7 @@
   "description": "NODEJS Playgotund -Where we do a lot of NodeJS related experiments",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.ts"
   },
   "author": "jagadish018",
   "license": "ISC",
