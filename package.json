@@ -1,0 +1,12 @@
+{
+  "name": "node-playground",
+  "version": "0.0.0",
+  "description": "NODEJS Playgotund -Where we do a lot of NodeJS related experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jagadish018",
+  "license": "ISC"
+  
+}
