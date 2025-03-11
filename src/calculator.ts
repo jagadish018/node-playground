@@ -16,6 +16,7 @@ class Calculator {
     divide(a: number, b: number): number |null{
         return b === 0 ? null : a / b;
     }
+    
 }
 
 
