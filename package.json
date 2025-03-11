@@ -4,11 +4,12 @@
   "description": "NODEJS Playgotund -Where we do a lot of NodeJS related experiments",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.ts"
+    "start": "npx ts-node src/index.ts"
   },
   "author": "jagadish018",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^22.13.10",
     "typescript": "^5.8.2"
   }
 }
